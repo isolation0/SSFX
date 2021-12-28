@@ -13,4 +13,4 @@ Just launch G.py and follow instructions.
 
 ## Rendering
 
-<img src="img/demo.png">
+<img src="https://l.top4top.io/p_2188jqpfc1.jpg">
